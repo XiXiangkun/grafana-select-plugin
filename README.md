@@ -29,3 +29,7 @@
   |> filter(fn: (r) => r["_field"] == "details" or r["_field"] == "lockedInfo" or r["_field"] == "blockInfo")
   |> yield(name: "mean")
   ```
+### Screenshot
+<div align="center">
+  <img src="https://github.com/XiXiangkun/images/blob/master/select.png?raw=true">
+</div>
