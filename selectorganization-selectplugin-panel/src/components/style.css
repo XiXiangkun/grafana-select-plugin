@@ -1,0 +1,28 @@
+.div_display{
+	display: flex;
+}
+
+.span_display{
+	float: left;
+	padding: 5px;
+}
+
+.result_container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 190px;
+  overflow-y: auto;
+  margin-top: 8px;
+  overflow-y: scroll;
+}
+
+.select_display{
+}
+
+.button_display {
+	margin-left: 8px;
+}
+
+.btn {
+    margin-left: 8px;
+}
